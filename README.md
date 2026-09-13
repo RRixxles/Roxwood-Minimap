@@ -41,7 +41,7 @@
 <h2 align="center">Compatibility</h2>
 
 <p align="center">
-  Works with <strong>Virus_City's Postal Map v1.3</strong><br>
+  Works as a replacement for <strong>Virus_City's Postal Map v1.3</strong><br>
   Compatible with custom MLOs that include <strong>Roxwood County</strong><br>
   Tested in <strong>FiveM (latest build)</strong>
 </p>
@@ -50,6 +50,8 @@
 
 <p align="center">
   <strong>Original Postal Minimap</strong> by <a href="https://forum.cfx.re/u/Virus_City">Virus_City</a><br>
+  <strong>ExtraMapTiles V2</strong> by <strong>L1CKS</strong>
+  <strong>Scaleform UI</strong> by <strong>manups4e</strong>
   <strong>Roxwood Map Extension</strong> by <strong>Rixxles</strong>
 </p>
 
