@@ -50,8 +50,8 @@
 
 <p align="center">
   <strong>Original Postal Minimap</strong> by <a href="https://forum.cfx.re/u/Virus_City">Virus_City</a><br>
-  <strong>ExtraMapTiles V2</strong> by <strong>L1CKS</strong>
-  <strong>Scaleform UI</strong> by <strong>manups4e</strong>
+  <strong>ExtraMapTiles V2</strong> by <strong>L1CKS</strong><br>
+  <strong>Scaleform UI</strong> by <strong>manups4e</strong><br>
   <strong>Roxwood Map Extension</strong> by <strong>Rixxles</strong>
 </p>
 
